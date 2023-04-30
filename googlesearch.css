@@ -1,0 +1,57 @@
+#MainSearch {
+    position: fixed;
+    top: 40%;
+    left: 31%;
+
+}
+
+#SearchBox {
+    border-radius: 100px;
+    width: 550px;
+    height: 45px;
+    bottom: 500px;
+    border-color: lightgrey;
+    border-style: ridge;
+    border-width: 1px;
+    text-indent: 22px;
+}
+#SearchBox:hover {
+    border-color: whitesmoke;
+
+}
+
+#Submit {
+    position: fixed;
+    background-position: 100%;
+    background-color: rgb(255, 255, 255);
+    border-color: whitesmoke;
+    color: black;
+    height: 40px;
+    width: 160px;
+    top: 48%;
+    left: 38%;
+}
+#Submit2 {
+    position: fixed;
+    background-position: 100%;
+    background-color: rgb(255, 255, 255);
+    border-color: whitesmoke;
+    color: black;
+    height: 40px;
+    width: 160px;
+    top: 48%;
+    left: 52%;
+}
+
+#Submit:hover {
+    border-color: grey;
+}
+#Submit2:hover {
+    border-color: grey;
+}
+
+.ExternalLinks {
+    position: relative;
+    float: right;
+    bottom: 8px;
+}
